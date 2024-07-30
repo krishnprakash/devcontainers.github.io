@@ -879,7 +879,7 @@
   repository: https://github.com/mathworks/devcontainer-features
   ociReference: ghcr.io/mathworks/devcontainer-features
 - name: Julian Pawlowski Dev Container Features
-  maintainer: jpawlowski
+  maintainer: Julian Pawlowski
   contact: https://github.com/jpawlowski/devcontainer-features/issues
   repository: https://github.com/jpawlowski/devcontainer-features
   ociReference: ghcr.io/jpawlowski/devcontainer-features
