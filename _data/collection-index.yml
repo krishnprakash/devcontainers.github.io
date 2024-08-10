@@ -893,3 +893,8 @@
   contact: https://github.com/git-saj/devcontainer-features/issues
   repository: https://github.com/git-saj/devcontainer-features
   ociReference: ghcr.io/git-saj/devcontainer-features
+- name: Devcontainer features by Codefabrik
+  maintainer: Codefabrik GmbH
+  contact: https://github.com/code-fabrik/features/issues
+  repository: https://github.com/code-fabrik/features
+  ociReference: ghcr.io/code-fabrik/features
