@@ -913,3 +913,8 @@
   contact: https://github.com/deep-space-cartel/devcontainers-features/issues
   repository: https://github.com/deep-space-cartel/devcontainers-features
   ociReference: ghcr.io/deep-space-cartel/devcontainers-features
+- name: Dev Container features by Adaptavist
+  maintainer: Mark Gibson
+  contact: https://github.com/adaptavist/devcontainer-features/issues
+  repository: https://github.com/adaptavist/devcontainer-features
+  ociReference: ghcr.io/adaptavist/devcontainer-features
