@@ -23,7 +23,7 @@ Goals include:
 
 Features source code is stored in a git repository.
 
-For ease of authorship and maintenance, [1..n] features can share a single git repository. This set of Features is referred to as a "collection," and will share the same [`devcontainer-collection.json`](#devcontainer-collection.json) file and "namespace" (eg. `<owner>/<repo>`).
+For ease of authorship and maintenance, [1..n] features can share a single git repository. This set of Features is referred to as a "collection," and will share the same [`devcontainer-collection.json`](#devcontainer-collection-json) file and "namespace" (eg. `<owner>/<repo>`).
 
 Source code for the set follows the example file structure below:
 
