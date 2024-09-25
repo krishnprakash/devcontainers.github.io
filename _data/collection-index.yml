@@ -932,4 +932,8 @@
   maintainer: Victor M. Varela
   contact: https://github.com/vmvarela/devcontainer-features/issues
   repository: https://github.com/vmvarela/devcontainer-features
-  ociReference: ghcr.io/vmvarela/devcontainer-features
+- name: Crystal features
+  maintainer: Caesarovich
+  contact: https://github.com/Caesarovich/devcontainer-feature-crystal/issues
+  repository: https://github.com/Caesarovich/devcontainer-feature-crystal
+  ociReference: ghcr.io/caesarovich/devcontainer-feature-crystal
