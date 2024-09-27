@@ -937,3 +937,8 @@
   contact: https://github.com/Caesarovich/devcontainer-feature-crystal/issues
   repository: https://github.com/Caesarovich/devcontainer-feature-crystal
   ociReference: ghcr.io/caesarovich/devcontainer-feature-crystal
+- name: Dev Container Features by devcontainers-extra
+  maintainer: devcontainers-extra
+  contact: https://github.com/devcontainers-extra/features/issues
+  repository: https://github.com/devcontainers-extra/features
+  ociReference: ghcr.io/devcontainers-extra/features
