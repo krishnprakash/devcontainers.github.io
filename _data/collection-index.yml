@@ -1007,6 +1007,11 @@
   contact: https://github.com/RouL/devcontainer-features/issues
   repository: https://github.com/RouL/devcontainer-features
   ociReference: ghcr.io/roul/devcontainer-features
+- name: devcontainer templates by blooop
+  maintainer: Austin Gregg-Smith
+  contact: https://github.com/blooop/devcontainer-templates/issues
+  repository: https://github.com/blooop/devcontainer-templates
+  ociReference: ghcr.io/blooop/devcontainer-templates
 - name: devcontainer features by prplecake
   maintainer: Matthew Jorgensen (prplecake)
   contact: https://github.com/prplecake/devcontainer-features/issues
