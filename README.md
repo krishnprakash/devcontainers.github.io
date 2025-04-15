@@ -22,7 +22,7 @@ It is from this [Jekyll Dev Container Template](https://github.com/devcontainers
      * You may review supporting tools and services [here](https://containers.dev/supporting).
 * Reopen this repo in the dev container, so that the container builds and you may develop inside it using the included tools. 
 * Once the dev container finishes building, execute the following command in your dev container to start the site: `bundle exec jekyll serve`
-* Check out the site! http://localhost:4000/containers.dev/
+* Check out the site! http://localhost:8080/containers.dev/
 
 ## Feedback and contributing
 
