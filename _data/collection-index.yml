@@ -1501,3 +1501,13 @@
   contact: https://github.com/nkaaf/devcontainer-features/issues
   repository: https://github.com/nkaaf/devcontainer-features
   ociReference: ghcr.io/nkaaf/devcontainer-features
+- name: Dev Container Features by RodriBus
+  maintainer: RodriBus
+  contact: https://github.com/RodriBus/devcontainer-features/issues
+  repository: https://github.com/RodriBus/devcontainer-features
+  ociReference: ghcr.io/rodribus/devcontainer-features
+- name: Antigravity CLI feature by aqua
+  maintainer: aqua
+  contact: https://github.com/aqua/devcontainer-antigravity-cli/issues
+  repository: https://github.com/aqua/devcontainer-antigravity-cli
+  ociReference: ghcr.io/aqua/devcontainer-antigravity-cli
